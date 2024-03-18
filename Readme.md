@@ -5,6 +5,13 @@
 ![CRM_ER_diagram](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/erd.png)
 
 
+
+## Presentation
+
+![Download PowerPoint Presentation](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/CRM_PPT.pptx)
+
+
+
 # CRM System Entities and Relationships
 
 ## Entities
