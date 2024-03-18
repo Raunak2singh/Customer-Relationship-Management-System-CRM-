@@ -1,15 +1,18 @@
 ### Customer Relationship Management (CRM) System
 
-## ER diagram
+The Customer Relationship Management (CRM) System is a comprehensive software solution designed to streamline interactions with customers, manage sales processes, and enhance overall customer satisfaction. It provides businesses with a centralized platform to track customer information, monitor sales opportunities, and improve communication with clients.
 
-![CRM_ER_diagram](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/erd.png)
-
-
+## Report
+![CRM_report](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/CRMreport.pdf)
 
 ## Presentation
-
 ![Download PowerPoint Presentation](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/CRM_PPT.pptx)
 
+## ER diagram
+![CRM_ER_diagram](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/CRM_ER.jpg)
+
+## Database Design
+![Database_Design](https://github.com/Raunak2singh/Customer-Relationship-Management-System-CRM-/blob/main/Er_diagram/CRM_ERD.png)
 
 
 # CRM System Entities and Relationships

@@ -52,34 +52,34 @@ public class App {
                     case 7:
                         addProductToOpportunity(opportunityDAO, productDAO);
                         break;
-                    case 10:
+                    case 8:
                         addTask(taskDAO, customerDAO, opportunityDAO);
                         break;
-                    case 11:
+                    case 9:
                         addProduct(productDAO);
                         break;
-                    case 12:
+                    case 10:
                         updateCustomer(customerDAO);
                         break;
-                    case 13:
+                    case 11:
                         updateOpportunity(opportunityDAO, customerDAO);
                         break;
-                    case 14:
+                    case 12:
                         updateTask(taskDAO, customerDAO, opportunityDAO);
                         break;
-                    case 15:
+                    case 13:
                         deleteCustomer(customerDAO);
                         break;
-                    case 16:
+                    case 14:
                         deleteOpportunity(opportunityDAO);
                         break;
-                    case 17:
+                    case 15:
                         deleteTask(taskDAO);
                         break;
-                    case 18:
+                    case 16:
                         viewCustomersOpportunities(customerDAO,opportunityDAO);
                         break;
-                    case 19:
+                    case 17:
                         viewOpportunityTasks(opportunityDAO);
                         break;
                     case 0:
@@ -102,19 +102,23 @@ public class App {
         System.out.println("2. View Opportunities");
         System.out.println("3. View Tasks");
         System.out.println("4. View Products");
-        System.out.println("6. Add Customer");
-        System.out.println("8. Add Opportunity");
-        System.out.println("9. Add Product to Opportunity");
-        System.out.println("10. Add Task");
-        System.out.println("11. Add Product");
-        System.out.println("12. Update Customer");
-        System.out.println("13. Update Opportunity");
-        System.out.println("14. Update Task");
-        System.out.println("15. Delete Customer");
-        System.out.println("16. Delete Opportunity");
-        System.out.println("17. Delete Task");
-        System.out.println("18. View Customer's Opportunities");
-        System.out.println("19. View Opportunity's Tasks");
+        System.out.println("\n");
+        System.out.println("5. Add Customer");
+        System.out.println("6. Add Opportunity");
+        System.out.println("7. Add Product to Opportunity");
+        System.out.println("8. Add Task");
+        System.out.println("9. Add Product");
+        System.out.println("\n");
+        System.out.println("10. Update Customer");
+        System.out.println("11. Update Opportunity");
+        System.out.println("12. Update Task");
+        System.out.println("\n");
+        System.out.println("13. Delete Customer");
+        System.out.println("14. Delete Opportunity");
+        System.out.println("15. Delete Task");
+        System.out.println("\n");
+        System.out.println("16. View Customer's Opportunities");
+        System.out.println("17. View Opportunity's Tasks");
         System.out.println("0. Exit");
         System.out.println("========================");
         System.out.print("Enter your choice: ");
